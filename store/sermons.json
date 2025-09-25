@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Faith Over Fear",
+    "speaker": "John K.",
+    "message": "",
+    "video": "/uploads/",
+    "videos": [
+      {
+        "social": "tiktok",
+        "link": "https://www.tiktok.com/@kingdom.embassy.karatina/video/7548880199346113798?is_from_webapp=1&sender_device=pc&web_id=7554098524217755143"
+      },
+      {
+        "social": "facebook",
+        "link": ""
+      }
+    ],
+    "date": "24-9-2025",
+    "tags": ["fear", "faith", "spiritual growth"]
+  }
+]
