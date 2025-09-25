@@ -3,8 +3,9 @@
     "id": 1,
     "title": "Faith Over Fear",
     "speaker": "John K.",
-    "message": "",
-    "video": "/uploads/",
+    "message": "Today we explore how faith can overcome fear in every situation.",
+    "image": "",
+    "video": "/uploads/videos/KAG KARATINA CHURCH praise and worship.mp4",
     "videos": [
       {
         "social": "tiktok",
@@ -17,5 +18,25 @@
     ],
     "date": "24-9-2025",
     "tags": ["fear", "faith", "spiritual growth"]
+  },
+  {
+    "id": 2,
+    "title": "God's will be done in earth as it is in Heaven",
+    "speaker": "Pastor Gikunju Maingi",
+    "message": "Tonight we look at Mathew 6:10, the Lord's prayer",
+    "image": "",
+    "video": "/uploads/videos/",
+    "videos": [
+      {
+        "social": "tiktok",
+        "link": ""
+      },
+      {
+        "social": "facebook",
+        "link": "https://www.facebook.com/share/r/1JimrQpAgf/"
+      }
+    ],
+    "date": "24-9-2025",
+    "tags": ["prayer", "Lord's prayer", "Mathew 6", "faith", "spiritual growth"]
   }
 ]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Youth Fellowship Meeting",
+    "author": "Pastor John",
+    "date": "2025-09-26",
+    "content": "Join us this Sunday for an inspiring youth fellowship...",
+    "image": "/uploads/youth-fellowship.jpg",
+    "link": "/posts/youth-fellowship",
+    "tags": ["youth", "fellowship", "church"],
+    "video": "",
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/K.A.G.Karatina/posts/12345"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@kingdom.embassy.karatina/video/12345"
+      }
+    ]
+  }
+]

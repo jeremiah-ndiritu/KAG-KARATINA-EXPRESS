@@ -1,0 +1,5 @@
+GET http://localhost:8089/api/sermons
+
+{
+    Content-Type: application/json
+}
