@@ -9,12 +9,16 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+const authRoutes = require("./auth/signUpandIn.js");
+
+app.use("/api", authRoutes);
+
 // Serve uploads statically
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 
 const sermonsPath = path.join(__dirname, "store", "sermons.json");
 const postsPath = path.join(__dirname, "store", "posts.json");
-console.log("sermonsPath :>> ", sermonsPath);
+const membersPath = path.join(__dirname, "store", "members.json");
 
 app.get("/", (req, res) => {
   res.send("<h1>App is running</h1>");

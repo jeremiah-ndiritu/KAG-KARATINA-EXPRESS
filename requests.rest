@@ -1,4 +1,4 @@
-GET http://localhost:8089/api/sermons
+GET http://localhost:8089/api/members
 
 {
     Content-Type: application/json

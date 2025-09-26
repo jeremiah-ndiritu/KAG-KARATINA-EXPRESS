@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "firstName": "John",
+      "lastName": "Kamau",
+      "nickName": "Teacher John"
+    },
+    "dob": "2003-07-20",
+    "phoneNumber": "+254745330996",
+    "email": "john.kamau@example.com",
+    "department": "Youth",
+    "roles": [
+      "vocalist",
+      "teacher"
+    ],
+    "joinedDate": "2025-09-25",
+    "status": "active",
+    "profileImage": "/uploads/members/john-kamau.png",
+    "address": {
+      "street": "",
+      "city": "Karatina",
+      "country": "Kenya"
+    },
+    "emergencyContact": {
+      "name": "",
+      "relationship": "",
+      "phoneNumber": ""
+    },
+    "notes": "",
+    "permissions": {
+      "canPost": false,
+      "canAccessMembersOnly": true,
+      "canManageEvents": false
+    }
+  },
+  {
+    "name": {
+      "firstName": "Jeremiah",
+      "lastName": "Ndiritu",
+      "nickName": "KAG-KARATINA-EXPRESS"
+    },
+    "dob": "2006-06-20",
+    "phoneNumber": "ndiritunjeri06@gmail.com",
+    "email": "ndiritunjeri06@gmail.com",
+    "department": "youth",
+    "roles": [
+      "musician",
+      "teacher"
+    ],
+    "id": 2,
+    "joinedDate": "2025-09-26",
+    "status": "active",
+    "profileImage": "/uploads/members/jeremy-n.png",
+    "address": {
+      "street": "",
+      "city": "Karatina",
+      "country": "Kenya"
+    },
+    "emergencyContact": {
+      "name": "",
+      "relationship": "",
+      "phoneNumber": ""
+    },
+    "notes": "",
+    "permissions": {
+      "canPost": false,
+      "canAccessMembersOnly": true,
+      "canManageEvents": false
+    }
+  },
+  {
+    "name": {
+      "firstName": "Kimundu ",
+      "lastName": "Kinene",
+      "nickName": "BBB"
+    },
+    "dob": "2009-05-31",
+    "phoneNumber": "0745330996",
+    "email": "kiricu.22995@students.kyu.ac.ke",
+    "department": "Men",
+    "roles": [
+      "chairman"
+    ],
+    "id": 3,
+    "joinedDate": "2025-09-26",
+    "status": "active",
+    "notes": "A new member",
+    "permissions": {
+      "canPost": false,
+      "canAccessMembersOnly": true,
+      "canManageEvents": false
+    }
+  }
+]
