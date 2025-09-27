@@ -1,6 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 require("dotenv").config();
+const session = require("express-session");
 
 const path = require("path");
 const fs = require("fs");
@@ -9,9 +10,23 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// Session middleware
+app.use(
+  session({
+    secret: process.env.SESSION_SECRET || "12jg3bjn",
+    resave: false,
+    saveUninitialized: false,
+    cookie: {
+      maxAge: 1000 * 60 * 60, // 1 hour
+    },
+  })
+);
+
 const authRoutes = require("./auth/signUpandIn.js");
+const adminRoutes = require("./routes/admin.js");
 
 app.use("/api", authRoutes);
+app.use("/admin", adminRoutes);
 
 // Serve uploads statically
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));

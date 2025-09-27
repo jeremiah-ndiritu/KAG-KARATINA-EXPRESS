@@ -5,7 +5,7 @@
     "speaker": "John K.",
     "message": "Today we explore how faith can overcome fear in every situation.",
     "image": "",
-    "video": "/uploads/videos/KAG KARATINA CHURCH praise and worship.mp4",
+    "video": "",
     "videos": [
       {
         "social": "tiktok",
@@ -14,6 +14,10 @@
       {
         "social": "facebook",
         "link": ""
+      },
+      {
+        "social": "youtube",
+        "link": "https://youtube.com/shorts/H_lnBFPTi6g?si=WZG6qfx1RogatO9L"
       }
     ],
     "date": "24-9-2025",
@@ -21,6 +25,146 @@
   },
   {
     "id": 2,
+    "title": "Walking in Grace",
+    "speaker": "Mary W.",
+    "message": "Discover how living in God’s grace transforms our daily decisions.",
+    "image": "",
+    "video": "/uploads/videos/walking-in-grace.mp4",
+    "videos": [
+      {
+        "social": "tiktok",
+        "link": "https://www.tiktok.com/@kingdom.embassy.karatina/video/7548880199346113799"
+      },
+      {
+        "social": "facebook",
+        "link": ""
+      }
+    ],
+    "date": "25-9-2025",
+    "tags": ["grace", "faith", "spiritual growth"]
+  },
+  {
+    "id": 3,
+    "title": "The Power of Prayer",
+    "speaker": "David N.",
+    "message": "Learn how consistent prayer can unlock God’s blessings in your life.",
+    "image": "",
+    "video": "/uploads/videos/power-of-prayer.mp4",
+    "videos": [
+      {
+        "social": "tiktok",
+        "link": "https://www.tiktok.com/@kingdom.embassy.karatina/video/7548880199346113800"
+      },
+      {
+        "social": "facebook",
+        "link": ""
+      }
+    ],
+    "date": "26-9-2025",
+    "tags": ["prayer", "faith", "spiritual growth"]
+  },
+  {
+    "id": 4,
+    "title": "Overcoming Doubt",
+    "speaker": "Grace M.",
+    "message": "Faith grows stronger when we confront doubt with God’s Word.",
+    "image": "",
+    "video": "/uploads/videos/overcoming-doubt.mp4",
+    "videos": [
+      {
+        "social": "tiktok",
+        "link": "https://www.tiktok.com/@kingdom.embassy.karatina/video/7548880199346113801"
+      },
+      {
+        "social": "facebook",
+        "link": ""
+      }
+    ],
+    "date": "27-9-2025",
+    "tags": ["doubt", "faith", "spiritual growth"]
+  },
+  {
+    "id": 5,
+    "title": "Living in Joy",
+    "speaker": "Peter K.",
+    "message": "Explore how joy in the Lord becomes your strength each day.",
+    "image": "",
+    "video": "/uploads/videos/living-in-joy.mp4",
+    "videos": [
+      {
+        "social": "tiktok",
+        "link": "https://www.tiktok.com/@kingdom.embassy.karatina/video/7548880199346113802"
+      },
+      {
+        "social": "facebook",
+        "link": ""
+      }
+    ],
+    "date": "28-9-2025",
+    "tags": ["joy", "faith", "spiritual growth"]
+  },
+  {
+    "id": 6,
+    "title": "Faithful Stewardship",
+    "speaker": "Samuel J.",
+    "message": "How managing God’s gifts faithfully brings blessing to your life.",
+    "image": "",
+    "video": "/uploads/videos/faithful-stewardship.mp4",
+    "videos": [
+      {
+        "social": "tiktok",
+        "link": "https://www.tiktok.com/@kingdom.embassy.karatina/video/7548880199346113803"
+      },
+      {
+        "social": "facebook",
+        "link": ""
+      }
+    ],
+    "date": "29-9-2025",
+    "tags": ["faith", "stewardship", "spiritual growth"]
+  },
+  {
+    "id": 7,
+    "title": "Trusting God in Trials",
+    "speaker": "Rebecca L.",
+    "message": "Learn to trust God fully even in the toughest situations.",
+    "image": "",
+    "video": "/uploads/videos/trusting-god-in-trials.mp4",
+    "videos": [
+      {
+        "social": "tiktok",
+        "link": "https://www.tiktok.com/@kingdom.embassy.karatina/video/7548880199346113804"
+      },
+      {
+        "social": "facebook",
+        "link": ""
+      }
+    ],
+    "date": "30-9-2025",
+    "tags": ["faith", "trust", "spiritual growth"]
+  },
+  {
+    "id": 8,
+    "title": "Renewed in Spirit",
+    "speaker": "Daniel T.",
+    "message": "Experience spiritual renewal and the power of God’s presence.",
+    "image": "",
+    "video": "/uploads/videos/renewed-in-spirit.mp4",
+    "videos": [
+      {
+        "social": "tiktok",
+        "link": "https://www.tiktok.com/@kingdom.embassy.karatina/video/7548880199346113805"
+      },
+      {
+        "social": "facebook",
+        "link": ""
+      }
+    ],
+    "date": "01-10-2025",
+    "tags": ["renewal", "spirit", "faith"]
+  },
+  {
+    "id": 9,
     "title": "God's will be done in earth as it is in Heaven",
     "speaker": "Pastor Gikunju Maingi",
     "message": "Tonight we look at Mathew 6:10, the Lord's prayer",

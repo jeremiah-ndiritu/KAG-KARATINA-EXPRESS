@@ -44,6 +44,7 @@ router.post("/members/login", (req, res) => {
   );
 
   if (member) {
+    req.session.member = member;
     res.json({ success: true, member });
   } else {
     res.status(401).json({ success: false, message: "Member not found" });

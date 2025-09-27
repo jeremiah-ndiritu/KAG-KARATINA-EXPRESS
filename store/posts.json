@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Youth Fellowship Meeting",
-    "author": "Pastor John",
+    "title": "Youths happy after A Birthday party",
+    "author": "Jeremiah Ndiritu",
     "date": "2025-09-26",
-    "content": "Join us this Sunday for an inspiring youth fellowship...",
-    "image": "/uploads/youth-fellowship.jpg",
+    "content": "Our brothers and sisters are very excited",
+    "image": "/uploads/images/kag karatina youths after bash.jpg",
     "link": "/posts/youth-fellowship",
     "tags": ["youth", "fellowship", "church"],
-    "video": "",
+    "video": "/uploads/videos/video after bash.mp4",
     "socials": [
       {
         "platform": "facebook",
@@ -17,6 +17,132 @@
       {
         "platform": "tiktok",
         "url": "https://www.tiktok.com/@kingdom.embassy.karatina/video/12345"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Youths Singing in Church | Kigooco",
+    "author": "Jeremiah Ndiritu",
+    "date": "2025-09-27",
+    "content": "Youths dedicated to praising their Maker.",
+    "image": "/uploads/images/youth led by mary ready to sing.jpg",
+    "link": "/posts/youths-singing-in-church",
+    "tags": ["praise", "kigooco", "youth"],
+    "video": "/uploads/videos/youth singing in church led by Mary.mp4",
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/K.A.G.Karatina/posts/12346"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@kingdom.embassy.karatina/video/12346"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Kigooco by Youth | Praise God always",
+    "author": "Jeremiah Ndiritu",
+    "date": "2025-09-28",
+    "content": "Tunamwimbia Bwana kabisa.",
+    "image": "/uploads/images/thursday-fellowship.jpg",
+    "link": "/posts/thursday-fellowship",
+    "tags": ["fellowship", "community", "prayer"],
+    "video": "/uploads/videos/youth singing led by Mary.mp4",
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/K.A.G.Karatina/posts/12347"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@kingdom.embassy.karatina/video/12347"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Saturday Music Practice",
+    "author": "Jeremiah Ndiritu",
+    "date": "2025-09-29",
+    "content": "Praise and Worship team practices new songs for Sunday service.",
+    "image": "/uploads/images/music-practice.jpg",
+    "link": "/posts/music-practice",
+    "tags": ["music", "practice", "praise"],
+    "video": "/uploads/videos/youths singing at night led by David Karanu.mp4",
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/K.A.G.Karatina/posts/12348"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@kingdom.embassy.karatina/video/7535904059518110982?is_from_webapp=1&sender_device=pc&web_id=7554098524217755143"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Youth Rally Session",
+    "author": "Jeremiah Ndiritu",
+    "date": "2025-09-30",
+    "content": "Youths gathered to study about life | Financial literacy.",
+    "image": "/uploads/images/youth in a meeting.jpg",
+    "link": "/posts/youth-in-a-meeting",
+    "tags": ["youth", "rally", "learn"],
+    "video": "/uploads/videos/youth in a meeting video.mp4",
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/K.A.G.Karatina/posts/12349"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@kingdom.embassy.karatina/video/12349"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Prayer time | Communicating with the Most High",
+    "author": "Jeremiah Ndiritu",
+    "date": "2025-10-01",
+    "content": "The praise and worship leaders lead a prayer",
+    "image": "/uploads/images/prayer-time.jpg",
+    "link": "/posts/prayer-time",
+    "tags": ["prayer", "community", "faith"],
+    "video": "/uploads/videos/KAG KARATINA CHURCH praise and worship.mp4",
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/K.A.G.Karatina/posts/12350"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@kingdom.embassy.karatina/video/7548880199346113798?is_from_webapp=1&sender_device=pc&web_id=7554098524217755143"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Church Outreach Event",
+    "author": "Jeremiah Ndiritu",
+    "date": "2025-10-02",
+    "content": "Members participated in an outreach event somewhere in K-Town.",
+    "image": "/uploads/images/some youths at crusade.jpg",
+    "link": "/posts/church-outreach",
+    "tags": ["outreach", "charity", "community"],
+    "video": "/uploads/videos/church-outreach.mp4",
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/K.A.G.Karatina/posts/12351"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@kingdom.embassy.karatina/video/12351"
       }
     ]
   }

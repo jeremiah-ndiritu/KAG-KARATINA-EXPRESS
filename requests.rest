@@ -3,3 +3,11 @@ GET http://localhost:8089/api/members
 {
     Content-Type: application/json
 }
+
+###
+
+GET http://localhost:8089/admin/dashboard
+
+{
+    Content-Type: application/json
+}

@@ -10,10 +10,8 @@
     "phoneNumber": "+254745330996",
     "email": "john.kamau@example.com",
     "department": "Youth",
-    "roles": [
-      "vocalist",
-      "teacher"
-    ],
+    "services": ["vocalist", "teacher"],
+    "roles": ["leader", "member"],
     "joinedDate": "2025-09-25",
     "status": "active",
     "profileImage": "/uploads/members/john-kamau.png",
@@ -44,10 +42,8 @@
     "phoneNumber": "ndiritunjeri06@gmail.com",
     "email": "ndiritunjeri06@gmail.com",
     "department": "youth",
-    "roles": [
-      "musician",
-      "teacher"
-    ],
+    "services": ["musician", "teacher"],
+    "roles": ["member"],
     "id": 2,
     "joinedDate": "2025-09-26",
     "status": "active",
@@ -79,9 +75,8 @@
     "phoneNumber": "0745330996",
     "email": "kiricu.22995@students.kyu.ac.ke",
     "department": "Men",
-    "roles": [
-      "chairman"
-    ],
+    "services": ["chairman"],
+    "roles": ["member", "leader"],
     "id": 3,
     "joinedDate": "2025-09-26",
     "status": "active",
