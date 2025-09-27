@@ -1,5 +1,26 @@
 [
   {
+    "id": 3,
+    "title": "At crusade worshipping | Spread the gospel",
+    "author": "Jeremiah Ndiritu",
+    "date": "2025-09-28",
+    "content": "We preach the gospel in other places",
+    "image": "/uploads/images/thursday-fellowship.jpg",
+    "link": "/posts/thursday-fellowship",
+    "tags": ["fellowship", "community", "prayer"],
+    "video": "/uploads/videos/singing in crusade held on 25 sep 2025.mp4",
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/K.A.G.Karatina/posts/12347"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@kingdom.embassy.karatina/video/12347"
+      }
+    ]
+  },
+  {
     "id": 1,
     "title": "Youths happy after A Birthday party",
     "author": "Jeremiah Ndiritu",
