@@ -2,7 +2,7 @@ import path from "path";
 import fs from "fs"
 import { Member } from "@/interfaces/member.interface";
 
-const membersPath = path.join(__dirname, "store", "members.json");
+const membersPath = path.join(process.cwd(), "src", "store", "members.json");
 
 // Helper to read JSON
 export const readMembers = (): Member[] => {
