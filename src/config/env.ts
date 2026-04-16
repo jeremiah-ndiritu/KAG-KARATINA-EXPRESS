@@ -27,7 +27,6 @@ const EnvSchema = z
     JWT_SECRET: z.string().min(1),
 
     LOG_FORMAT: z.string().min(1).optional(), // 기본값은 app.ts에서 'dev'
-    LOG_DIR: z.string().min(1),
     LOG_LEVEL: z.string().min(1),
 
     ORIGIN: z.string().min(1), // 필요시 배열화 가능
@@ -61,7 +60,6 @@ export const PORT = env.PORT; // app.ts에서 PORT || 3000
 export const JWT_SECRET = env.JWT_SECRET;
 
 export const LOG_FORMAT = env.LOG_FORMAT; // app.ts에서 LOG_FORMAT || 'dev'
-export const LOG_DIR = env.LOG_DIR;
 export const LOG_LEVEL = env.LOG_LEVEL;
 
 export const ORIGIN = env.ORIGIN;
